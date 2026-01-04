@@ -15,6 +15,7 @@ export default function AboutPage() {
         このブログについて
       </p>
 
+
       <section className="mt-6 space-y-4 text-sm leading-7">
         <p>
           このブログは、日々の気づきや学びを、気軽に残していくための雑記ブログです。
