@@ -2,7 +2,7 @@
 import "./globals.css";
 import Link from "next/link";
 
-const SITE_URL = "https://your-site.vercel.app"; // ←ここだけ変更
+const SITE_URL = "https://politics-news.vercel.app/"; // ←ここだけ変更
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),

@@ -1,6 +1,6 @@
 import { getPost } from "@/lib/posts";
 
-const SITE_URL = "https://your-site.vercel.app"; // ←ここだけ変更
+const SITE_URL = "https://politics-news.vercel.app/"; // ←ここだけ変更
 
 type PageProps = {
   params: Promise<{ slug: string }>;
